@@ -1,1 +1,24 @@
-.card{color:white; } .header{font-size:.94rem; font-weight:bold; font-family:'Roboto';} .card-content{font-size:.9rem; font-family:'Roboto'; border-radius:12px !important; padding-bottom:30px !important; padding-left:20px !important; padding-right:20px !important; } .learnMoreLinkDisplay{font-family:'Roboto'; background:#fff; color: #000000; padding:14px; border-radius: 6px; margin-top:10px; font-size:.9rem; transition-duration:0.5s} .authorArtist{font-style:italic; margin-top:0; margin-bottom:0;} .learnMoreLinkDisplay:hover{background:#000000; color:#fff; text-decoration:underline; transition-duration:0.5s;} .awt-vis-controls-csvFilter .awt-csvFilter-button{background:#ffffff !important; border-radius:12px;} .awt-vis-controls-csvFilter .awt-csvFilter-label{ font-size:1rem; font-family:'Roboto'} .awesomeTable-visualization-cards .cards-page{} .at-pagination-button{ width:48px !important; height: 48px !important; color:#3bafaa} .awesomeTable-visualization-cards {font-size: 1rem !important;} .awt-vis-controls-SearchFilter .awt-searchFilter-input{ border-radius:12px !important; font-family:'Roboto'} .awesomeTable-visualization-cards .card-content:hover{ box-shadow:rgba(0, 0, 0, 0.6) 0 12px 16px 0} .flexLink{margin-top:auto; margin-bottom:15px;} .awesomeTable-visualization-cards .card-content {display:flex; flex-direction:column;} .titleImage{max-width:100%; margin-top:10px; } @media only screen and (max-width: 768px) {.card{width:100% !important;}}
+.card{color:white; } 
+.header{font-size:.94rem; font-weight:bold; font-family:'Roboto';} 
+.card-content{font-size:.9rem; font-family:'Roboto'; border-radius:12px !important; padding-bottom:30px !important; padding-left:20px !important; padding-right:20px !important; } 
+.learnMoreLinkDisplay{font-family:'Roboto'; background:#fff; color: #000000; padding:14px; border-radius: 6px; margin-top:10px; font-size:.9rem; transition-duration:0.5s} 
+.authorArtist{font-style:italic; margin-top:0; margin-bottom:0;} 
+.learnMoreLinkDisplay:hover{background:#000000; color:#fff; text-decoration:underline; transition-duration:0.5s;} 
+.awt-vis-controls-csvFilter .awt-csvFilter-button{background:#ffffff !important; border-radius:12px;} 
+.awt-vis-controls-csvFilter .awt-csvFilter-label{ font-size:1rem; font-family:'Roboto'} 
+.awesomeTable-visualization-cards .cards-page{} 
+.at-pagination-button{ width:48px !important; height: 48px !important; color:#3bafaa} 
+.awesomeTable-visualization-cards {font-size: 1rem !important;} 
+.awt-vis-controls-SearchFilter .awt-searchFilter-input{ border-radius:12px !important; font-family:'Roboto'} 
+.awesomeTable-visualization-cards .card-content:hover{ box-shadow:rgba(0, 0, 0, 0.6) 0 12px 16px 0} 
+.flexLink{margin-top:auto; margin-bottom:15px;} 
+.awesomeTable-visualization-cards .card-content {display:flex; flex-direction:column;} 
+.titleImage{max-width:100%; margin-top:10px; } 
+@media only screen and (max-width: 768px) {.card{width:100% !important;}}
+
+
+
+
+
+
+
